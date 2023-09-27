@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+    text-align: center;
+    box-shadow: 1px 1px 10px black;
+}
+header {
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
+main {
+    min-height: calc(100vh - 120px);
+}
+footer {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
